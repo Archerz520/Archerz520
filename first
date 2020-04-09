@@ -1,0 +1,3 @@
+安装requests库：
+进入到pip所在的文件夹下：
+输入cmd,即可进入相应目录的cmd,输入安装命令pip install requests即可安装
